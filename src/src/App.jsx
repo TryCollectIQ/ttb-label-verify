@@ -280,7 +280,7 @@ export default function App() {
       <header className="masthead">
         <div className="masthead-inner">
           <div>
-            <div className="eyebrow">TTB Compliance Division · Prototype</div>
+            <div className="eyebrow">Alcohol label compliance · Prototype</div>
             <h1>LabelCheck</h1>
             <p className="tagline">
               Upload a label, compare it against the application, get a verdict in seconds.

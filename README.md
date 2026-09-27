@@ -1,6 +1,6 @@
 # LabelCheck — AI-Powered Alcohol Label Verification (Prototype)
 
-A standalone proof-of-concept for TTB label compliance review. An agent enters (or uploads) the application data, uploads the label image, and gets a field-by-field verdict in a few seconds. Claude's vision model reads the label; deterministic code makes every pass/fail decision.
+A standalone proof-of-concept for alcohol label compliance review under TTB labeling rules. An agent enters (or uploads) the application data, uploads the label image, and gets a field-by-field verdict in a few seconds. Claude's vision model reads the label; deterministic code makes every pass/fail decision.
 
 **Live demo:** https://ttb-label-verify.netlify.app
 
